@@ -140,11 +140,7 @@ Since 2016, the two scripts have diverged and are not alike anymore, especially 
 
 **Q:** Which provider do you recommend?
 
-**A:** I recommend these:
-
-- [Vultr](https://goo.gl/Xyd1Sc): Worldwide locations, IPv6 support, starting at $3.50/month
-- [PulseHeberg](https://goo.gl/76yqW5): France, unlimited bandwidth, starting at €3/month
-- [Digital Ocean](https://goo.gl/qXrNLK): Worldwide locations, IPv6 support, starting at $5/month
+**A:** [Hosting allowed VPN](https://go.kontemplado.com/eteo7)
 
 ---
 
